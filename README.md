@@ -20,4 +20,5 @@ This section is dedicated to keep track of what I used to help complete this pro
 This isn't a bug but rather a special note: there was a random .DS_Store file in the challenge files from bootcamp spot which I promptly deleted because it's specific to macOS and Apple is the bane of my existence so I felt obligated to purge that bit of heresy from my holy Windows 10 system.
 
 ## Update Log
-11/19/2023: 
+11/19/2023: Created github repo. Finished part 1: Exploring the data
+
