@@ -22,3 +22,5 @@ This isn't a bug but rather a special note: there was a random .DS_Store file in
 ## Update Log
 11/19/2023: Created github repo. Finished part 1: Exploring the data
 
+11/24/2023: Finished part 2: Transform the data and part 3: Confirm your work
+
