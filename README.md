@@ -32,4 +32,4 @@ There are no bugs with this program, it's just a simple click "Run All" and the 
 
 11/24/2023: Finished part 2: Transform the data and part 3: Confirm your work
 
-11/26/2023: Finally quit procrastinating and finished part 4: Summarize and analyze. It's done, it works, nother day nother beer, just gonna send it. Updated README.md and got this thing ready for submission.
+11/26/2023: Finally quit procrastinating and finished part 4: Summarize and analyze. It's done, it works. Updated README.md and got this thing ready for submission.
